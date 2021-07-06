@@ -29,11 +29,11 @@ description:
 
   For SPI':'
 
-    In add of the properties below, please consult
+    In addition to the properties below, please consult
     Documentation/devicetree/bindings/spi/spi-controller.yaml for optional SPI
     related properties.
 
-  Note that in add of the properties below, the WFx driver also supports
+  Note that in addition to the properties below, the WFx driver also supports
   `mac-address` and `local-mac-address` as described in
   Documentation/devicetree/bindings/net/ethernet.txt
 
